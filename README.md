@@ -1,4 +1,17 @@
-### Hi there 👋
+# Tommy P. Keane 🥦 👻 🐰
+
+### Hiya! 👋
+
+This is the personal GitHub account of me, Tommy P. Keane, a vegan Software Engineer / Data Scientist / Cloud Systems Architect.
+
+If you're lookin' for a famous Tommy P. Keane, that is most definitely not me.
+
+However, if the Tommy P. Keane that you're lookin' for is a rambly, mumbly, nerdy person born in the mid-1980s in the United States of America, then you're probably at the right place.
+
+### more tommy...
+
+- 🐙 [GitHub gists (snippets)](https://gist.github.com/TommyPKeane)
+- 🌐 [tommypkeane.com](https://www.tommypkeane.com)
 
 <!--
 **TommyPKeane/tommypkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
