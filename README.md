@@ -2,7 +2,7 @@
 
 ### Hiya! 👋
 
-This is the personal GitHub account of me, Tommy P. Keane, a vegan Software Engineer / Data Scientist / Cloud Systems Architect.
+This is the personal GitHub account of me, Tommy P. Keane, a vegan Software Engineer / Data Scientist / Platform Engineer (DevOps) / Machine Learning Engineer (MLOps) / Cloud Systems Architect.
 
 If you're lookin' for a famous Tommy P. Keane, that is most definitely not me.
 
@@ -10,20 +10,6 @@ However, if the Tommy P. Keane that you're lookin' for is a rambly, mumbly, nerd
 
 ### more tommy...
 
-- 🐙 [GitHub gists (snippets)](https://gist.github.com/TommyPKeane)
 - 🌐 [tommypkeane.com](https://www.tommypkeane.com)
-
-<!--
-**TommyPKeane/tommypkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐙 [GitHub gists (snippets)](https://gist.github.com/TommyPKeane)
+- 📚 [GitHub List: "tommy teaches tommy"](https://github.com/stars/TommyPKeane/lists/tommy-teaches-tommy)
